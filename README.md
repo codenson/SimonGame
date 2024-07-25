@@ -32,7 +32,7 @@ the sequence to advance to the next level. If the player makes a mistake, the ga
    ```bash
    git clone https://github.com/codenson/SimonGame
 
-   ![simonGame](https://github.com/user-attachments/assets/90e76b68-68d4-4885-9bed-51c69e62c0fa)
-   ![Screenshot (148)](https://github.com/user-attachments/assets/6061cddf-096d-486e-a7cf-37f976317bc3)
+![simonGame](https://github.com/user-attachments/assets/90e76b68-68d4-4885-9bed-51c69e62c0fa)
+![Screenshot (148)](https://github.com/user-attachments/assets/6061cddf-096d-486e-a7cf-37f976317bc3)
 
 
